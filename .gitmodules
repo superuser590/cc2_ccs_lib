@@ -1,0 +1,3 @@
+[submodule "PyBinaryReader"]
+	path = PyBinaryReader
+	url = https://github.com/SutandoTsukai181/PyBinaryReader
